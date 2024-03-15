@@ -1,5 +1,24 @@
 # market place application 
 
+## Tools and technologies used
+### Frontend
+* reactJS
+* react-icns
+* react-router-dom
+* react-toastify
+* redux toolkit
+
+### Backend
+* nodeJS
+* expressJS
+* jsonwebtoken
+* bcryptJS
+* cookie-parser
+
+### Database
+* mongoDB
+
+
 ### Frontend requirements
 1. login and register page and these are public routes
 2. Home page with header and items showing
